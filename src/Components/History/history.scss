@@ -1,0 +1,76 @@
+.header {
+    background-color: #F1ECDB;
+}
+
+.header2 {
+    margin-top: -6px;
+    background-color: #F1ECDB;
+}
+
+.history {
+    background-color: #F1ECDB;
+    display: flex;
+}
+
+.excerpt {
+    background-image: url('../../img/bark-letter.png');
+    background-repeat: no-repeat;
+    height: 900px;
+
+    &__content {
+        width: 390px;
+        padding: 110px 187px 120px 174px;
+    }
+
+    &__paragrath {
+        margin-bottom: 26px;
+    }
+
+    &__string {
+        font-family: 'Playfair Display';
+        font-style: italic;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        letter-spacing: -0.03em;
+        color: #7F2725;
+
+        &_right {
+            text-align: right;
+        }
+
+        &_bold {
+            font-size: 20px;
+            font-weight: 700;
+        }
+    }
+}
+
+.description {
+    padding: 75px 323px 257px 0;
+    width: 697px;
+
+    &__heading {
+        font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 32px;
+        color: #7A2221;
+
+        &-bold {
+            font-weight: 700;
+        }
+    }
+
+    &__paragrath {
+        margin-top: 26px;
+    }    
+    
+    &__string {
+        font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        color: #2C2C2C;
+    }
+}
