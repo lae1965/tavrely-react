@@ -63,7 +63,6 @@ export const games = {
                 { white: 'a4 - c5', black: 'h2 - e2' },
                 { white: 'd5 - d7', black: 'f6 - d7' },
                 { white: 'd1(1) - d7', black: 'd8 - d7' },
-                { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1 - d7' }
             ],
             result: 'Черные сдались.'
@@ -91,7 +90,6 @@ export const games = {
                 { white: 'h1 - d1', black: 'e5 - h2', comment: 'Позиция черных проиграна.' },
                 { white: 'a4 - c5', black: 'h2 - e2' },
                 { white: 'd5 - d7', black: 'f6 - d7' },
-                { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1 - d7' }
             ],
@@ -121,7 +119,6 @@ export const games = {
                 { white: 'a4 - c5', black: 'h2 - e2' },
                 { white: 'd5 - d7', black: 'f6 - d7' },
                 { white: 'd1(1) - d7', black: 'd8 - d7' },
-                { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1 - d7' }
             ],
             result: 'Черные сдались.'
@@ -149,7 +146,6 @@ export const games = {
                 { white: 'h1 - d1', black: 'e5 - h2', comment: 'Позиция черных проиграна.' },
                 { white: 'a4 - c5', black: 'h2 - e2' },
                 { white: 'd5 - d7', black: 'f6 - d7' },
-                { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1 - d7' }
             ],
@@ -181,7 +177,6 @@ export const games = {
                 { white: 'a4 - c5', black: 'h2 - e2' },
                 { white: 'd5 - d7', black: 'f6 - d7' },
                 { white: 'd1(1) - d7', black: 'd8 - d7' },
-                { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1 - d7' }
             ],
             result: 'Черные сдались.'
@@ -209,7 +204,6 @@ export const games = {
                 { white: 'h1 - d1', black: 'e5 - h2', comment: 'Позиция черных проиграна.' },
                 { white: 'a4 - c5', black: 'h2 - e2' },
                 { white: 'd5 - d7', black: 'f6 - d7' },
-                { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1 - d7' }
             ],
@@ -239,7 +233,6 @@ export const games = {
                 { white: 'a4 - c5', black: 'h2 - e2' },
                 { white: 'd5 - d7', black: 'f6 - d7' },
                 { white: 'd1(1) - d7', black: 'd8 - d7' },
-                { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1 - d7' }
             ],
             result: 'Черные сдались.'
@@ -267,7 +260,6 @@ export const games = {
                 { white: 'h1 - d1', black: 'e5 - h2', comment: 'Позиция черных проиграна.' },
                 { white: 'a4 - c5', black: 'h2 - e2' },
                 { white: 'd5 - d7', black: 'f6 - d7' },
-                { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1 - d7' }
             ],
@@ -299,7 +291,6 @@ export const games = {
                 { white: 'a4 - c5', black: 'h2 - e2' },
                 { white: 'd5 - d7', black: 'f6 - d7' },
                 { white: 'd1(1) - d7', black: 'd8 - d7' },
-                { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1 - d7' }
             ],
             result: 'Черные сдались.'
@@ -327,7 +318,6 @@ export const games = {
                 { white: 'h1 - d1', black: 'e5 - h2', comment: 'Позиция черных проиграна.' },
                 { white: 'a4 - c5', black: 'h2 - e2' },
                 { white: 'd5 - d7', black: 'f6 - d7' },
-                { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1 - d7' }
             ],
@@ -357,7 +347,6 @@ export const games = {
                 { white: 'a4 - c5', black: 'h2 - e2' },
                 { white: 'd5 - d7', black: 'f6 - d7' },
                 { white: 'd1(1) - d7', black: 'd8 - d7' },
-                { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1 - d7' }
             ],
             result: 'Черные сдались.'
@@ -385,7 +374,6 @@ export const games = {
                 { white: 'h1 - d1', black: 'e5 - h2', comment: 'Позиция черных проиграна.' },
                 { white: 'a4 - c5', black: 'h2 - e2' },
                 { white: 'd5 - d7', black: 'f6 - d7' },
-                { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1 - d7' }
             ],
@@ -417,7 +405,6 @@ export const games = {
                 { white: 'a4 - c5', black: 'h2 - e2' },
                 { white: 'd5 - d7', black: 'f6 - d7' },
                 { white: 'd1(1) - d7', black: 'd8 - d7' },
-                { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1 - d7' }
             ],
             result: 'Черные сдались.'
@@ -445,7 +432,6 @@ export const games = {
                 { white: 'h1 - d1', black: 'e5 - h2', comment: 'Позиция черных проиграна.' },
                 { white: 'a4 - c5', black: 'h2 - e2' },
                 { white: 'd5 - d7', black: 'f6 - d7' },
-                { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1 - d7' }
             ],
@@ -475,7 +461,6 @@ export const games = {
                 { white: 'a4 - c5', black: 'h2 - e2' },
                 { white: 'd5 - d7', black: 'f6 - d7' },
                 { white: 'd1(1) - d7', black: 'd8 - d7' },
-                { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1 - d7' }
             ],
             result: 'Черные сдались.'
@@ -503,7 +488,6 @@ export const games = {
                 { white: 'h1 - d1', black: 'e5 - h2', comment: 'Позиция черных проиграна.' },
                 { white: 'a4 - c5', black: 'h2 - e2' },
                 { white: 'd5 - d7', black: 'f6 - d7' },
-                { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1 - d7' }
             ],
@@ -535,7 +519,6 @@ export const games = {
                 { white: 'a4 - c5', black: 'h2 - e2' },
                 { white: 'd5 - d7', black: 'f6 - d7' },
                 { white: 'd1(1) - d7', black: 'd8 - d7' },
-                { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1 - d7' }
             ],
             result: 'Черные сдались.'
@@ -563,7 +546,6 @@ export const games = {
                 { white: 'h1 - d1', black: 'e5 - h2', comment: 'Позиция черных проиграна.' },
                 { white: 'a4 - c5', black: 'h2 - e2' },
                 { white: 'd5 - d7', black: 'f6 - d7' },
-                { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1 - d7' }
             ],
@@ -593,7 +575,6 @@ export const games = {
                 { white: 'a4 - c5', black: 'h2 - e2' },
                 { white: 'd5 - d7', black: 'f6 - d7' },
                 { white: 'd1(1) - d7', black: 'd8 - d7' },
-                { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1 - d7' }
             ],
             result: 'Черные сдались.'
@@ -621,7 +602,6 @@ export const games = {
                 { white: 'h1 - d1', black: 'e5 - h2', comment: 'Позиция черных проиграна.' },
                 { white: 'a4 - c5', black: 'h2 - e2' },
                 { white: 'd5 - d7', black: 'f6 - d7' },
-                { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1 - d7' }
             ],
@@ -653,7 +633,6 @@ export const games = {
                 { white: 'a4 - c5', black: 'h2 - e2' },
                 { white: 'd5 - d7', black: 'f6 - d7' },
                 { white: 'd1(1) - d7', black: 'd8 - d7' },
-                { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1 - d7' }
             ],
             result: 'Черные сдались.'
@@ -681,7 +660,6 @@ export const games = {
                 { white: 'h1 - d1', black: 'e5 - h2', comment: 'Позиция черных проиграна.' },
                 { white: 'a4 - c5', black: 'h2 - e2' },
                 { white: 'd5 - d7', black: 'f6 - d7' },
-                { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1 - d7' }
             ],
@@ -711,7 +689,6 @@ export const games = {
                 { white: 'a4 - c5', black: 'h2 - e2' },
                 { white: 'd5 - d7', black: 'f6 - d7' },
                 { white: 'd1(1) - d7', black: 'd8 - d7' },
-                { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1 - d7' }
             ],
             result: 'Черные сдались.'
@@ -739,7 +716,6 @@ export const games = {
                 { white: 'h1 - d1', black: 'e5 - h2', comment: 'Позиция черных проиграна.' },
                 { white: 'a4 - c5', black: 'h2 - e2' },
                 { white: 'd5 - d7', black: 'f6 - d7' },
-                { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1 - d7' }
             ],

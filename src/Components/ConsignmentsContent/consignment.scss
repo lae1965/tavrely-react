@@ -1,0 +1,88 @@
+.consignments {
+    background-color: #F1ECDB;
+    padding: 70px 162px 98px 163px;
+    display: flex;
+    gap: 26px;
+}
+
+.championships {
+    flex-basis: 59%;
+}
+
+.championship {
+    display: block;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 32px;
+    color: #7A2221;
+    margin-bottom: 20px;
+}
+
+.games {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 31px 38px;
+
+    &__fon {
+        display: flex;
+        flex-direction: column;
+        background-image: url(../../img/game-fon.png);
+        border-radius: 10px;
+        background-repeat: no-repeat;
+        width: 47%;
+        height: 556px;
+        padding: 26px;
+        box-sizing: border-box;
+
+    }
+
+    &__heading {
+        font-family: 'Roboto';
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 32px;
+        text-align: center;
+        color: #7A2221;
+    }
+
+    &__result {
+        display: flex;
+        flex-grow: 1;
+        justify-content: center;
+        align-items: flex-end;
+        font-family: 'Roboto';
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 32px;
+        color: #2C2C2C;
+    }
+}
+
+.moves {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 50%;
+    height: 85%;
+    column-gap: 50px;
+}
+
+.move {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #2C2C2C;
+    margin-top: 20px;
+
+    &__comment {
+        font-size: 12px;
+    }
+}
+
+.active {
+    font-weight: 700;
+    text-decoration: underline;
+}

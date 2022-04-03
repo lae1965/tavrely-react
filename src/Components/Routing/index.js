@@ -7,6 +7,7 @@ import { MainPage } from "../MainPage";
 import { PageError } from "../PageError";
 import { Rules } from "../Rules";
 import { Consignments } from "../Consignments";
+import { Championship } from "../Championship";
 
 export const Routing = () => {
     return (
@@ -16,7 +17,9 @@ export const Routing = () => {
                     <Route index element={<MainPage />} />
                     <Route path="rules" element={<Rules />} />
                     <Route path="history" element={<History />} />
-                    <Route path="consignments" element={<Consignments />} />
+                    <Route path="consignments" element={<Consignments />}>
+                        <Route path=":gameId" element={<Championship />}/>
+                    </Route>
                 </Route>
                 <Route path="*" element={<PageError />} />
             </Routes> 
