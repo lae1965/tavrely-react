@@ -63,6 +63,15 @@ export const games = {
                 { white: 'a4 - c5', black: 'h2 - e2' },
                 { white: 'd5 - d7', black: 'f6 - d7' },
                 { white: 'd1(1) - d7', black: 'd8 - d7' },
+                { white: 'c1 - b1', black: 'g5 - e5' },
+                { white: 'c3 - a4', black: 'h8 - e8' },
+                { white: 'f2 - f3', black: 'e8 - e6' },
+                { white: 'b7 - d5', black: 'd8(1) - e8' },
+                { white: 'h1 - d1', black: 'e5 - h2', comment: 'Позиция черных проиграна.' },
+                { white: 'a4 - c5', black: 'h2 - e2' },
+                { white: 'd5 - d7', black: 'f6 - d7' },
+                { white: 'd5 - d7', black: 'f6 - d7' },
+                { white: 'd1(1) - d7', black: 'd8 - d7' },
                 { white: 'd1 - d7' }
             ],
             result: 'Черные сдались.'
